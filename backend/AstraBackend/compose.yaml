@@ -1,0 +1,7 @@
+﻿services:
+  astrabackend:
+    image: astrabackend
+    build:
+      context: .
+      dockerfile: AstraBackend/Dockerfile
+
