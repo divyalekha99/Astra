@@ -1,2 +1,2 @@
 # Astra
-Astra: Orchestrate Your Process Mining Workspaces
+Astra: Orchestrate your Data Analysis Workspaces
